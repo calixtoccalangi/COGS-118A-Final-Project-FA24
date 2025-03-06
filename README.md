@@ -4,4 +4,8 @@ This paper seeks to extend upon previous studies on supervised machine learning 
 
 This project involved the usage of Python and several libraries (NumPy, pandas, SciPy); implementation of supervised machine learning algorithms and techniques; properly reported project write-up with correct notation.
 
+The report is uploaded as part of the GitHub repository (along with the individual codes for each dataset).
+https://github.com/calixtoccalangi/COGS-118A-Final-Project-FA24/blob/main/CC_FA24_COGS118.pdf
+
+
 
